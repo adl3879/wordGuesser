@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title {
+  background: linear-gradient(45deg, #f3ec78, #af4261);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.form input {
+  padding: 5px 10px;
+}
+
+.scrWord {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  letter-spacing: 5px;
+}

@@ -1,0 +1,16 @@
+export const WORDS = [
+    "react",
+    "typescript",
+    "javascript",
+    "developer",
+    "programming",
+    "algorithm",
+    "physics",
+    "science",
+    "mathematics",
+    "jupiter",
+    "saturn",
+    "artificial",
+    "intelligence",
+    "machine",
+];
